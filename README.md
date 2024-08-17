@@ -26,6 +26,3 @@ Give it a Star ✴️
 --------------------
 If you find this repo useful , give it a star
 
-Credits
------------
-All the credits to [kalebu](https://github.com/Kalebu)
